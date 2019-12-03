@@ -7,7 +7,7 @@ PS-2019-2-SI-ProgramaAfiliado
 <li><a href="https://drive.google.com/file/d/1F0zYPs2yRGT7vP_kLXdhRvhqife86wR2/view?usp=sharing">DCAD - Diagrama de Classes de Análise / Domínio</a></li>
 <li><a href="https://drive.google.com/file/d/1LaReIhp9vDGhjpoMbyRmf6UZhEI9UNzE/view?usp=sharing">DA   - Diagrama de Arquitetura</a></li>
 <li><a href="https://drive.google.com/file/d/1xZDv4a4yehdwvg0x54MRQtjVIhvip1Zg/view?usp=sharing">DCP  - Diagrama de Classes de Projeto</a></li>
-<li>DS   - Diagrama de Sequencia</li>
+  <li><a href="https://drive.google.com/file/d/1crNGdZmlFVRTkMkPiZCq6oJzFCjyBG0e/view?usp=sharing">DS   - Diagrama de Sequencia</a></li>
 <li>DTE  - Diagrama de Transição de Estados</li>
 <li>MER  - Modelo de Entidades e Relacionamento</li>
 </ol>
